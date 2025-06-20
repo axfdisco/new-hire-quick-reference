@@ -1,0 +1,6 @@
+{
+  "name": "New Hire Quick Reference",
+  "description": "A quick reference app for new hires, providing easy access to GChat and relevant Confluence documentation for the contract process.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
